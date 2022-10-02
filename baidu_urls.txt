@@ -1,1 +1,1 @@
-http://example.com/posts/0.html
+http://example.com/posts/aacb2b8c.html
