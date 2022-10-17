@@ -5,6 +5,10 @@
     <lastmod>2022-10-17</lastmod>
   </url>
   <url>
+    <loc>http://example.com/posts/0.html</loc>
+    <lastmod>2022-10-17</lastmod>
+  </url>
+  <url>
     <loc>http://example.com/posts/8a0d040e.html</loc>
     <lastmod>2022-10-17</lastmod>
   </url>
@@ -42,10 +46,6 @@
   </url>
   <url>
     <loc>http://example.com/posts/e18a0bd3.html</loc>
-    <lastmod>2022-10-17</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/posts/0.html</loc>
     <lastmod>2022-10-17</lastmod>
   </url>
 </urlset> 
