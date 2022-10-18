@@ -4,7 +4,7 @@
   <url>
     <loc>http://example.com/manifest.json</loc>
     
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>http://example.com/link/index.html</loc>
     
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
   <url>
     <loc>http://example.com/tags/index.html</loc>
     
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
   <url>
     <loc>http://example.com/posts/0.html</loc>
     
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
   <url>
     <loc>http://example.com/posts/8a0d040e.html</loc>
     
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +49,7 @@
   <url>
     <loc>http://example.com/posts/a12057cd.html</loc>
     
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +58,7 @@
   <url>
     <loc>http://example.com/posts/b83b668c.html</loc>
     
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +67,7 @@
   <url>
     <loc>http://example.com/posts/f77af04b.html</loc>
     
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +76,7 @@
   <url>
     <loc>http://example.com/posts/4f978fef.html</loc>
     
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,7 +85,7 @@
   <url>
     <loc>http://example.com/posts/5e4c8c3.html</loc>
     
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +94,7 @@
   <url>
     <loc>http://example.com/posts/179b297b.html</loc>
     
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -103,7 +103,7 @@
   <url>
     <loc>http://example.com/posts/b485a69.html</loc>
     
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -112,7 +112,7 @@
   <url>
     <loc>http://example.com/posts/aacb2b8c.html</loc>
     
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -121,7 +121,7 @@
   <url>
     <loc>http://example.com/posts/e18a0bd3.html</loc>
     
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -130,7 +130,7 @@
   <url>
     <loc>http://example.com/about/index.html</loc>
     
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -139,7 +139,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -147,14 +147,14 @@
   
   <url>
     <loc>http://example.com/tags/C-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/unity-C-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
