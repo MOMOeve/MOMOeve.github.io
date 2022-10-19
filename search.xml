@@ -4,13 +4,19 @@
   
     
     <entry>
-      <title></title>
-      <link href="/posts/0.html"/>
-      <url>/posts/0.html</url>
+      <title>C#学习(8)</title>
+      <link href="/posts/5bcfbf47.html"/>
+      <url>/posts/5bcfbf47.html</url>
       
         <content type="html"><![CDATA[<h1 id="数组的内存结构"><a href="#数组的内存结构" class="headerlink" title="数组的内存结构"></a>数组的内存结构</h1><p><strong><em>值类型与引用类型</em></strong></p><h2 id="值类型"><a href="#值类型" class="headerlink" title="值类型"></a>值类型</h2><p><strong><em>int, float, double, bool, char</em></strong><br><strong><em>内存：</em></strong> 值类型的值存储在内存栈中<br><figure class="highlight c#"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">int</span> a = <span class="number">10</span>;</span><br><span class="line"><span class="built_in">int</span> b = a;<span class="comment">// 值传递（拷贝一个）</span></span><br></pre></td></tr></table></figure><br>这个时候单独修改b的值时a的值并不会发生改变，这种传递叫做值传递，这个时候变量之间的传递就是拷贝一个具体的值给对方。</p><h2 id="引用类型"><a href="#引用类型" class="headerlink" title="引用类型"></a>引用类型</h2><p><strong><em>接口，数组，委托，字符串</em></strong><br><strong><em>内存：</em></strong> 引用类型的值存储在内存中的堆空间中<br><figure class="highlight c#"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">int</span>[] A = <span class="keyword">new</span> <span class="built_in">int</span>[] &#123;<span class="number">00</span>, <span class="number">11</span>, <span class="number">22</span>, <span class="number">33</span>&#125;;</span><br><span class="line"><span class="built_in">int</span>[] B = A;<span class="comment">//引用传递（传递一个内存地址）</span></span><br></pre></td></tr></table></figure><br><img src="https://pic1.imgdb.cn/item/634fb73e16f2c2beb152c578.jpg" alt="栈堆"><br>这个时候单独去修改B中的值A的值会跟着发生改变，这种传递叫做引用传递(也叫浅拷贝只复制一个地址给对方)</p><div class="tip info"><p>人皆知有用之用，而莫知无用之用也。 </p></div>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> C#学习笔记 </tag>
+            
+        </tags>
       
     </entry>
     
